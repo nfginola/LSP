@@ -6,11 +6,11 @@ The game is a small first-person 3d-platformer where the levels are based on the
 It is written using the DirectX graphics API in c++.
 
 Members: 
- Sam Axelsson 
- Gunnar Cerne 
- Filip Eriksson 
- Jonatan Hermansson 
- Nadhif Ginola 
+ Sam Axelsson, 
+ Gunnar Cerne,  
+ Filip Eriksson,  
+ Jonatan Hermansson, 
+ Nadhif Ginola, 
 
 # Features:
 Running, jumping, dashing
